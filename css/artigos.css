@@ -1,0 +1,61 @@
+.artigos-content{
+  background: #f6e9ff;
+  color: #323E42;
+  text-align: center;
+}
+.bg-color1{
+  padding: 1em;
+  background: #f6f6f6;
+}
+.bg-color2{
+  padding: 1em;
+  background: #f6e9ff;
+}
+.artigos-content p{
+  text-align: left;
+  line-height: 1.8;
+}
+.artigos-content ul{
+  text-align: left;
+  line-height: 1.8;
+}
+.artigos-foto{
+  border-radius: 50px 0px;
+  padding: 1em;
+  height: 37em;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  /*float: left;*/
+}
+.social-media ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: block;
+  text-align: center;
+}
+.social-media li{
+  display: inline-block;
+  font-size: 3em;
+  margin-right: .2em;
+}
+.artigos-content a{
+  color: #9041be;
+}
+.artigos-content a:hover{
+  color: #323E42;
+}
+.artigos-content a:visited{
+  text-decoration: none;
+}
+
+.artigo-art img{
+  height: 20em;
+}
+
+.artigos-content hr{
+  margin: 2em;
+  border: solid 1px #323E42;
+}
+
